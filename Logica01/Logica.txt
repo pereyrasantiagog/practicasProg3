@@ -1,0 +1,2 @@
+Debemos hacer dos vectores, uno sera de tipo string y otro int, a este ultimo vamos a convertir los datos de entrada de cada elemento a int para que a la hora de hacer la condición (edad > 30) validemos si puede ingresar o no al boliche.
+Para saber que edad pertenece a cada nombre vamos a comparar cada vector y por su numero de indice vamos a determinar cual nombre pertenece a determinada edad
